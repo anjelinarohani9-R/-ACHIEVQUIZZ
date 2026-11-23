@@ -2,7 +2,7 @@
 // 1. INISIALISASI PWA & EFEK SUARA
 // =========================================================================
 const manifestData = {
-  name: "ACHIEVQUIZ - Quiz SMA Pink Pastel",
+  name: "ACHIEVQUIZ - Quiz SMA",
   short_name: "ACHIEVQUIZ",
   start_url: ".",
   display: "standalone",
